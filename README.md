@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Abrham Atfantaye 👋</h1> <h3 align="center">Software Developer · Java · Angular · TypeScript · SQL</h3>
+<h1 align="center">Hi, I'm Abrham Fantaye 👋</h1> <h3 align="center">Software Developer · Java · Angular · TypeScript · SQL</h3>
 🚀 About me
 💼 Software developer building web applications with Angular and Java
 🎓 Started out writing Java, C and MySQL projects in college, and still love solving problems in code
